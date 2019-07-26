@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikulinsergey/goit-react-hw-02-readerd/static/css/main.ecd0c0c9.chunk.css",
+    "main.js": "/nikulinsergey/goit-react-hw-02-readerd/static/js/main.1c17b4c1.chunk.js",
+    "main.js.map": "/nikulinsergey/goit-react-hw-02-readerd/static/js/main.1c17b4c1.chunk.js.map",
+    "runtime~main.js": "/nikulinsergey/goit-react-hw-02-readerd/static/js/runtime~main.b5160a29.js",
+    "runtime~main.js.map": "/nikulinsergey/goit-react-hw-02-readerd/static/js/runtime~main.b5160a29.js.map",
+    "static/js/2.6fcf23cc.chunk.js": "/nikulinsergey/goit-react-hw-02-readerd/static/js/2.6fcf23cc.chunk.js",
+    "static/js/2.6fcf23cc.chunk.js.map": "/nikulinsergey/goit-react-hw-02-readerd/static/js/2.6fcf23cc.chunk.js.map",
+    "index.html": "/nikulinsergey/goit-react-hw-02-readerd/index.html",
+    "precache-manifest.ceb771fbec8b0f42fed36206ffe3e943.js": "/nikulinsergey/goit-react-hw-02-readerd/precache-manifest.ceb771fbec8b0f42fed36206ffe3e943.js",
+    "service-worker.js": "/nikulinsergey/goit-react-hw-02-readerd/service-worker.js",
+    "static/css/main.ecd0c0c9.chunk.css.map": "/nikulinsergey/goit-react-hw-02-readerd/static/css/main.ecd0c0c9.chunk.css.map"
+  }
+}
